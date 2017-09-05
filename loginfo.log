@@ -1,0 +1,5 @@
+Sun, 03 Sep 2017 15:38:10 connectionpool.py[line:809] DEBUG Starting new HTTPS connection (1): api.huobi.com
+Sun, 03 Sep 2017 15:38:11 connectionpool.py[line:400] DEBUG https://api.huobi.com:443 "POST /apiv3?access_key=b213454c-af07cb5a-06fb97cb-ad18b&sign=d9c49d360ea5868f9e74f8d11e731705&method=get_account_info&created=1504424290 HTTP/1.1" 200 None
+Sun, 03 Sep 2017 15:38:11 connectionpool.py[line:212] DEBUG Starting new HTTP connection (1): api.huobi.com
+Sun, 03 Sep 2017 15:38:11 connectionpool.py[line:400] DEBUG http://api.huobi.com:80 "GET /staticmarket/ltc_kline_001_json.js?length=3 HTTP/1.1" 200 None
+Sun, 03 Sep 2017 15:38:11 HuobiMain.py[line:72] INFO 开始执行
